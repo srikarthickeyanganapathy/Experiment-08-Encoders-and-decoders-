@@ -99,21 +99,23 @@ endmodule
 
 ### RTL LOGIC:
 #### For ENCODER:
-
+![RTL1](./Screenshot%20(130).png)
 
 #### For DECODER:
-
+![RTL2](./Screenshot%20(131).png)
 
 ### TIMING DIGRAMS  
 #### For ENCODER:
-
+![TD1](./Screenshot%202023-01-28%20205527.jpg)
 #### For DECODER:
-
+![TD2](./Screenshot%202023-01-28%20205802.jpg)
 
 ### TRUTH TABLE 
 #### For ENCODER:
+![TT1](./encodertt.png)
 
 #### For DECODER:
-
+![TT2](./decodertt.png)
 
 ### RESULTS 
+Thus the program to implement encoder and decoder using verilog is verified.
